@@ -1,0 +1,24 @@
+p{
+    color:blue;
+}
+h3{
+    color:brown;
+    opacity: 0.5;
+}
+ul{
+    color:green;
+    height: 100%;
+    inset-inline-start: 20px;
+    inset-inline-end: 35px;
+}
+p{
+    text-transform: capitalize;
+}
+h2{
+    letter-spacing: 15px;
+}
+image{
+    width: 100%;
+    height: 560%;
+
+}
